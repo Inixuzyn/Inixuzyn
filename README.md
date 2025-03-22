@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=latesturl&data=followers,repositories,stars&theme=nautilus)](https://github.com/latesturl)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Inixuzyn&data=followers,repositories,stars&theme=nautilus)](https://github.com/Inixuzyn)
 
 ## Hi there, I'm Xuzyn👋
 🚀 **Frontend Developer | Open Source Contributor**
