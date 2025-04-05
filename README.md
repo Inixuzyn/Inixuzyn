@@ -35,7 +35,7 @@ Domain: -
 
 ## 📬 Let's Connect
 <p align="left">
-  <a href="https://whatsapp.com/channel/0029Vb4ngq4CxoB5889HOQ2V" target="_blank">
+  <a href="https://whatsapp.com/channel/0029VbAFOtG9Gv7Z9MXRx73u" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
